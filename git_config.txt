@@ -1,0 +1,4 @@
+$git config --global usegit r.name "BraianOtondo" // le añade nombre de usuario al usuario cuando usas git
+$git config --global user.email "braian_otondo99@outlook.com" // le añade mail al que lo va usar
+$git config user.name // verifica nombre de usuario
+$git config user.email // verifica mail de usuario 

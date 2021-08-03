@@ -1,0 +1,1 @@
+$git status // avisa en que rama te encuentras, cuantos commits tiene y que cambios hubo

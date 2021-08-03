@@ -1,0 +1,1 @@
+$git init // Crea un repositorio nuevo en la carpeta ubicada
