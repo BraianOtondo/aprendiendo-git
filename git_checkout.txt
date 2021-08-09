@@ -1,0 +1,2 @@
+$git checkout c34f1da // te regresa a ese commit especifico para poder verlo y codear
+//(vease git log --timeline para saber los codigos de cada commit)
