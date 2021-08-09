@@ -1,0 +1,3 @@
+$git commit -m "primer commit de este repositorio master" // lo que hace esto es que crea un
+// commit, que guarda los cambios hasta ese momento de la rama
+// y ademas le agrega un comentario con "-m"

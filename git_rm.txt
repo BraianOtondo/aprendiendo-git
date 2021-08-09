@@ -1,0 +1,3 @@
+$git rm --cached git_commit.txt // lo que hace es sacar el add anterior que se puso de ese archivo
+// por si no lo queremos agregar al commit que vamos a hacer
+$git rm --cached . // saca el add anterior de todos los archivos de la rama

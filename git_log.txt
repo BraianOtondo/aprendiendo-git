@@ -1,0 +1,4 @@
+$git log // Muestra todos los commit de esa rama y los datos
+	//Muestra el Historial de Confirmaciones()
+$git log -p // muestra los cambios de las distintas confirmaciones con archivos y lineas
+$git log -p -2 // hace que se muestren únicamente las dos últimas entradas del historial
