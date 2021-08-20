@@ -1,2 +1,5 @@
 $git branch // muestra las ramas que se hayan creado * si estás ubicado en ella
 $git branch -d ramaprueba // elimina la rama con ese nombre
+$git push -u origin main
+
+$git push origin master // esto envia los cambios al repositorio remoto de github
