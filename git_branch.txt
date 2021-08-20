@@ -1,0 +1,2 @@
+$git branch // muestra las ramas que se hayan creado * si estás ubicado en ella
+$git branch -d ramaprueba // elimina la rama con ese nombre

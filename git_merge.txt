@@ -1,0 +1,1 @@
+$git merge ramaprueba // lo que hace es traer los cambios de la ramaprueba a la rama que está uno ubicado
