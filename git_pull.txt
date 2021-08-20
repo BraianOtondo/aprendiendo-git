@@ -1,0 +1,1 @@
+$git pull --rebase // Esto sirve para sincronizar ambos repositorios de git y git hub para poder hacer el push sin problemas
